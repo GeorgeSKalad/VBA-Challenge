@@ -6,7 +6,7 @@
 
 # Stock Analysis VBA Script
 
-![pic1] (Images/Screenshot 2023.png)
+![pic1](Images/Screenshot 2023.png)
 
 ## Overview
 This VBA script performs stock analysis on multiple worksheets in an Excel workbook. It calculates metrics for each stock, including yearly change, percent change, and total stock volume. Results are displayed in a summary table, and the script identifies the stocks with the greatest percentage increase, greatest percentage decrease, and greatest total volume.
